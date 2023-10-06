@@ -85,19 +85,16 @@ html.body {
   
   @media screen and (max-width: 470px) {
     .container {
-      max-width: 75%;
-      max-height: 75%; 
+      max-width: 80%;
+      max-height: 80%; 
       padding-top: 35%; 
-      background-color: white;
-      margin:0 auto;
-       
+      background-color: white;       
       
     }
   
     .quad {
       width: 45px; 
       height: 45px;
-      position: relative;
       
     }
   }
