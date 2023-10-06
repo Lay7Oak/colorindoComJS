@@ -1,4 +1,4 @@
-html.bory {
+html.body {
     margin: 0 auto;
     padding: 0 auto;
     height: auto;
@@ -33,7 +33,7 @@ html.bory {
     padding: 50px 15px 15px 50px;
     border-radius: 3%;
     border: solid black 2px;
-    background-color: beige;
+    background-color: white;
     clear: both;
     margin:0 auto;
     margin-top: 30px;
@@ -88,7 +88,8 @@ html.bory {
       max-width: 75%;
       max-height: 75%; 
       padding-top: 35%; 
-      background-color: beige;
+      background-color: white;
+      margin:0 auto;
        
       
     }
@@ -96,6 +97,7 @@ html.bory {
     .quad {
       width: 45px; 
       height: 45px;
+      position: relative;
       
     }
   }
